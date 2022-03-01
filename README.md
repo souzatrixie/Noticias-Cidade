@@ -1,2 +1,2 @@
 # Noticias-Cidade
-Site-Noticias-Cidade
+Site-HortoNotícias
